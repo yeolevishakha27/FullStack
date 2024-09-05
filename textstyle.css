@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    border:solid ;
+    text-decoration: blue  underline;
+    font-family: courier New;
+
+    
+}
+h3{
+    text-align: right;
+    font-weight: normal;
+    text-decoration: red underline;
+}
+p{
+    text-align: center;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: 20px;
+    font-family: arial;
+    
+}

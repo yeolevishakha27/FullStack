@@ -1,0 +1,25 @@
+div{
+    height: 200px;
+    width: 300px;
+}
+div{
+    border-color: aqua;
+    border-width: 5px;
+    border-style: dashed;
+    border-left-style: solid;
+    border-bottom-color:yellowgreen ;
+    border-radius: 50px;
+    margin-bottom:  25px; ;
+    margin: 50px;
+}
+h1{
+    border-color: aqua;
+    border-width: 5px;
+    border-style: dashed;
+}
+button{
+    border-color: aqua;
+    border-width: 5px;
+    border-style: dashed;
+    padding : 0px 2px 3px 0px; 
+}

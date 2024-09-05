@@ -1,0 +1,11 @@
+#outer{
+    height: 200px;
+    width: 70px;
+    border-style:solid ;
+    border-color: black;
+}
+
+.inner{
+    height: 100px;
+    width: 100px;
+}

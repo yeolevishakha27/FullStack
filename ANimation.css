@@ -1,0 +1,41 @@
+/* .BOX{
+    height: 300px;
+    width: 300px;
+    background-color: pink;
+
+    animation-name: fontAnimation;
+    animation-duration: 2s;
+    animation-direction:normal ;
+    animation-timing-function: ease-in;
+    animation-delay: 0;
+    animation-iteration-count: 3;
+
+}
+
+@keyframes fontAnimation {
+    from{
+        font-size:20px ;
+    }
+    to{
+        font-size: 40px;
+    }
+} */
+ h1{
+    background-color: rgb(228, 84, 195);
+   border: 2px solid black;
+ }
+ @media(min-width:200px){
+    h1{
+        background-color: blueviolet;
+    }
+ }
+ @media( width: 400px){
+    h1{
+        background-color: coral;
+    }
+ }
+@media(orientation:landscape){
+    h1{
+        background-color: cornflowerblue;
+    }
+}
